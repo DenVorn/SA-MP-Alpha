@@ -1,7 +1,7 @@
 dataset = {
 
 	{
-		title = "{FFA500}Последнее обновление: {00FF00}17.05.2023 ", -- Тут пиши дату тогда когда поменял.
+		title = "{FFA500}Последнее обновление: {00FF00}17.05.2023 23:23 ", -- Тут пиши дату тогда когда поменял.
 	},
 
 	{
@@ -29,10 +29,12 @@ dataset = {
             { message = "Список Руководства:", delay = 5000 },
 			{ message = "Комбат - Подполковник Liam Antonio.", delay = 5000 },
 			{ message = "Замполит - Майор Oswaldo Antonio.", delay = 5000 },
-			{ message = "Штаб - временно отсутствует.", delay = 5000 },
-			{ message = "Командир «Альфа» - на даный момент нету. ", delay = 5000 },
+			{ message = "Штаб - Майор Kristina Langford.", delay = 5000 },
+			{ message = "Штаб - Капитан Tom Ryan.", delay = 5000 },
+			{ message = "Штаб - Отсутствует.", delay = 5000 },
+			{ message = "Командир «Альфа» - Лейтенант Alvaers Versace. ", delay = 5000 },
 			{ message = "Первый заместитель «Альфа» - Младший лейтенант Hector Montez. ", delay = 5000 },
-			{ message = "Второй заместитель «Альфа» - Лейтенант Alvares Versace.", delay = 5000 },
+			{ message = "Второй заместитель «Альфа» - Отсутствует.", delay = 5000 },
 			{ message = "Инструктора Отдела Подготовки:", delay = 5000 },
 			{ message = "1. Капитан Mark Bell.", delay = 5000 },
 			{ message = "2. Старший лейтенант Get Easton.", delay = 5000 },
