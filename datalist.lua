@@ -32,7 +32,7 @@ dataset = {
 			{ message = "Штаб - Майор Liam Antonio.", delay = 5000 },
 			{ message = "Штаб - Майор Tom Ryan.", delay = 5000 },
 			{ message = "Штаб - Отсутствует.", delay = 5000 },
-			{ message = "Командир «Альфа» - Капитан Alvaers Versace. ", delay = 5000 },
+			{ message = "Командир «Альфа» - Капитан Alvares Versace. ", delay = 5000 },
 			{ message = "Первый заместитель «Альфа» - Капитан Hector Montez. ", delay = 5000 },
 			{ message = "Второй заместитель «Альфа» - Младший Лейтенант Roca Escalante.", delay = 5000 },
 			{ message = "Инструктора Отдела Подготовки:", delay = 5000 },
