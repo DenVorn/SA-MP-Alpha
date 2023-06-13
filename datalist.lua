@@ -1,7 +1,7 @@
 dataset = {
 
 	{
-		title = "{FFA500}Последнее обновление: {00FF00}09.06.2023 19:48 ", -- Тут пиши дату тогда когда поменял.
+		title = "{FFA500}Последнее обновление: {00FF00}13.06.2023 15:57 ", -- Тут пиши дату тогда когда поменял.
 	},
 
 	{
@@ -34,11 +34,11 @@ dataset = {
 			{ message = "Штаб - Отсутствует.", delay = 5000 },
 			{ message = "Командир «Альфа» - Капитан Alvares Versace. ", delay = 5000 },
 			{ message = "Первый заместитель «Альфа» - Капитан Hector Montez. ", delay = 5000 },
-			{ message = "Второй заместитель «Альфа» - Младший Лейтенант Roca Escalante.", delay = 5000 },
+			{ message = "Второй заместитель «Альфа» - Лейтенант Roca Escalante.", delay = 5000 },
 			{ message = "Инструктора Отдела Подготовки:", delay = 5000 },
 			{ message = "1. Капитан Get Easton.", delay = 5000 },
 			{ message = "2. Лейтенант Stacey Montes.", delay = 5000 },
-			{ message = "3. Прапорщик Kirill Olsson.", delay = 5000 },
+			{ message = "3. Младший Лейтенант Kirill Olsson.", delay = 5000 },
 			{ message = "4. Старшина Danny Cavalli.", delay = 5000 },
 			{ message = "Запреты бойцов «Альфа»:", delay = 5000 },
 			{ message = "1) Запрещено летать или ехать в Порт ЛС через опасный район.", delay = 6000 },
